@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rongxianren.myflowlayout.MainActivity">
+
+    <com.rongxianren.myflowlayout.view.MyFlowLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#CCCCCC"
+        android:padding="10dp"
+        app:item_array="女朋友-女神-温柔贤惠-倾国倾城-沉鱼落雁-闭月羞花-仙女下凡-没得不要不要的-女朋友-女神-温柔贤惠-倾国倾城-沉鱼落雁-闭月羞花-仙女下凡-没得不要不要的-女朋友-女神-温柔贤惠-倾国倾城-沉鱼落雁-闭月羞花-仙女下凡-没得不要不要的-女朋友-女神-温柔贤惠-倾国倾城-沉鱼落雁-闭月羞花-仙女下凡-没得不要不要的" />
+</RelativeLayout>
